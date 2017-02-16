@@ -5,6 +5,10 @@ category: hexo
 toc: true
 ---
 
+Hexo是一个简单地、轻量地、基于Node的一个静态博客框架，可以方便的生成静态网页托管在github和Heroku上。引用Hexo作者 @tommy351 的话：
+
+快速、简单且功能强大的Node.js博客框架。A fast, simple & powerful blog framework, powered by Node.js.
+
 要使用Hexo，需要在你的系统中支持Nodejs和Git。
 
 
@@ -16,19 +20,14 @@ toc: true
 ## 安装Nodejs
 官网：[https://nodejs.org/en/](https://nodejs.org/en/)
 
-## 安装Hexo
+## 使用Hexo
 官网：[https://nodejs.org/en/](https://nodejs.org/en/)
-
-### 新建博客文件夹hexo并进入
-
-```
-mkdir hexo
-cd hexo
-```
 
 ### 安装hexo
 
 ```
+mkdir hexo
+cd hexo
 npm install hexo-cli -g
 ```
 
