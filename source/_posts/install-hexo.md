@@ -2,6 +2,7 @@
 title: 在github上使用hexo搭建博客
 date: 2017-02-04
 category: hexo
+tag: hexo
 toc: true
 ---
 
